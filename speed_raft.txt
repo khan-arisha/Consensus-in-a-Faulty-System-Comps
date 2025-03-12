@@ -1,0 +1,87 @@
+2025-02-26 15:41:24 Leader 0 committed a value 42 in term 0, taking 0.60687 seconds to reach the decision
+2025-02-26 15:41:39 Leader 1 committed a value 44 in term 2, taking 0.60611 seconds to reach the decision
+2025-02-26 15:41:39 Leader 0 committed a value 47 in term 4, taking 0.70637 seconds to reach the decision
+2025-02-26 15:40:53 Leader 4 committed a value 49 in term 5, taking 0.50665 seconds to reach the decision
+2025-02-26 15:41:40 Leader 3 committed a value 51 in term 6, taking 0.50593 seconds to reach the decision
+2025-02-26 15:41:10 Leader 4 committed a value 55 in term 9, taking 2.01759 seconds to reach the decision
+2025-02-26 15:41:41 Leader 5 committed a value 58 in term 11, taking 1.71205 seconds to reach the decision
+2025-02-26 15:41:50 Leader 5 committed a value 61 in term 13, taking 0.60469 seconds to reach the decision
+2025-02-26 15:42:38 Leader 7 committed a value 63 in term 14, taking 0.51265 seconds to reach the decision
+2025-02-26 15:41:59 Leader 5 committed a value 65 in term 15, taking 0.50440 seconds to reach the decision
+
+2025-02-26 15:48:11 Leader 0 committed a value 42 in term 0, taking 0.39378 seconds to reach the decision
+2025-02-26 15:48:12 Leader 0 committed a value 43 in term 0, taking 0.70564 seconds to reach the decision
+2025-02-26 15:48:23 Leader 1 committed a value 45 in term 1, taking 0.40380 seconds to reach the decision
+2025-02-26 15:48:07 Leader 4 committed a value 57 in term 12, taking 0.40384 seconds to reach the decision
+2025-02-26 15:48:07 Leader 4 committed a value 58 in term 12, taking 0.70544 seconds to reach the decision
+2025-02-26 15:48:24 Leader 4 committed a value 63 in term 16, taking 0.90668 seconds to reach the decision
+2025-02-26 15:48:58 Leader 2 committed a value 66 in term 19, taking 1.40954 seconds to reach the decision
+2025-02-26 15:49:47 Leader 6 committed a value 68 in term 20, taking 0.50801 seconds to reach the decision
+2025-02-26 15:49:06 Leader 2 committed a value 69 in term 21, taking 1.10745 seconds to reach the decision
+2025-02-26 15:49:15 Leader 2 committed a value 72 in term 23, taking 1.20765 seconds to reach the decision
+
+2025-02-26 15:58:18 Leader 0 committed a value 42 in term 0, taking 0.38396 seconds to reach the decision
+2025-02-26 15:58:29 Leader 1 committed a value 44 in term 1, taking 0.50401 seconds to reach the decision
+2025-02-26 15:58:30 Leader 1 committed a value 45 in term 1, taking 0.50384 seconds to reach the decision
+2025-02-26 15:58:26 Leader 3 committed a value 49 in term 4, taking 0.40414 seconds to reach the decision
+2025-02-26 15:58:27 Leader 3 committed a value 50 in term 4, taking 0.60511 seconds to reach the decision
+2025-02-26 15:58:10 Leader 2 committed a value 52 in term 5, taking 0.60422 seconds to reach the decision
+2025-02-26 15:58:11 Leader 2 committed a value 53 in term 5, taking 0.60389 seconds to reach the decision
+2025-02-26 15:58:51 Leader 1 committed a value 55 in term 6, taking 0.80577 seconds to reach the decision
+2025-02-26 15:59:21 Leader 0 committed a value 66 in term 16, taking 1.71192 seconds to reach the decision
+2025-02-26 15:59:52 Leader 0 committed a value 75 in term 24, taking 1.00677 seconds to reach the decision
+
+2025-02-26 16:01:24 Leader 0 committed a value 42 in term 0, taking 0.27297 seconds to reach the decision
+2025-02-26 16:01:25 Leader 0 committed a value 43 in term 0, taking 0.60459 seconds to reach the decision
+2025-02-26 16:01:26 Leader 0 committed a value 44 in term 0, taking 0.50395 seconds to reach the decision
+2025-02-26 16:01:26 Leader 0 committed a value 45 in term 0, taking 0.50415 seconds to reach the decision
+2025-02-26 16:01:26 Leader 3 committed a value 48 in term 2, taking 0.40312 seconds to reach the decision
+2025-02-26 16:01:27 Leader 3 committed a value 49 in term 2, taking 0.50309 seconds to reach the decision
+2025-02-26 16:01:35 Leader 3 committed a value 52 in term 4, taking 1.00543 seconds to reach the decision
+2025-02-26 16:02:01 Leader 1 committed a value 56 in term 7, taking 0.90572 seconds to reach the decision
+2025-02-26 16:02:01 Leader 1 committed a value 57 in term 7, taking 0.40295 seconds to reach the decision
+2025-02-26 16:02:02 Leader 1 committed a value 58 in term 7, taking 0.50347 seconds to reach the decision
+
+2025-02-26 16:02:07 Leader 0 committed a value 42 in term 0, taking 0.46502 seconds to reach the decision
+2025-02-26 16:02:08 Leader 0 committed a value 43 in term 0, taking 0.40362 seconds to reach the decision
+2025-02-26 16:02:08 Leader 0 committed a value 44 in term 0, taking 0.30249 seconds to reach the decision
+2025-02-26 16:02:09 Leader 0 committed a value 45 in term 0, taking 0.50408 seconds to reach the decision
+2025-02-26 16:02:15 Leader 0 committed a value 46 in term 2, taking 0.30245 seconds to reach the decision
+2025-02-26 16:02:23 Leader 0 committed a value 49 in term 4, taking 0.70422 seconds to reach the decision
+2025-02-26 16:01:37 Leader 4 committed a value 51 in term 5, taking 0.40328 seconds to reach the decision
+2025-02-26 16:01:37 Leader 4 committed a value 52 in term 5, taking 0.40253 seconds to reach the decision
+2025-02-26 16:01:38 Leader 4 committed a value 53 in term 5, taking 0.40261 seconds to reach the decision
+2025-02-26 16:02:05 Leader 5 committed a value 55 in term 6, taking 0.40325 seconds to reach the decision
+
+2025-02-26 16:02:50 Leader 0 committed a value 42 in term 0, taking 0.15263 seconds to reach the decision
+2025-02-26 16:02:50 Leader 0 committed a value 43 in term 0, taking 0.40236 seconds to reach the decision
+2025-02-26 16:02:50 Leader 0 committed a value 44 in term 0, taking 0.20204 seconds to reach the decision
+2025-02-26 16:03:02 Leader 1 committed a value 46 in term 1, taking 0.30274 seconds to reach the decision
+2025-02-26 16:03:02 Leader 1 committed a value 47 in term 1, taking 0.30244 seconds to reach the decision
+2025-02-26 16:03:03 Leader 1 committed a value 48 in term 1, taking 0.30275 seconds to reach the decision
+2025-02-26 16:03:03 Leader 1 committed a value 49 in term 1, taking 0.30239 seconds to reach the decision
+2025-02-26 16:03:03 Leader 1 committed a value 50 in term 1, taking 0.30232 seconds to reach the decision
+2025-02-26 16:03:04 Leader 1 committed a value 51 in term 1, taking 0.30216 seconds to reach the decision
+2025-02-26 16:03:04 Leader 1 committed a value 52 in term 1, taking 0.30219 seconds to reach the decision
+
+2025-02-26 16:03:14 Leader 0 committed a value 42 in term 0, taking 0.14252 seconds to reach the decision
+2025-02-26 16:03:14 Leader 0 committed a value 43 in term 0, taking 0.30187 seconds to reach the decision
+2025-02-26 16:03:15 Leader 0 committed a value 44 in term 0, taking 0.40322 seconds to reach the decision
+2025-02-26 16:03:26 Leader 1 committed a value 46 in term 1, taking 0.30203 seconds to reach the decision
+2025-02-26 16:03:19 Leader 3 committed a value 50 in term 3, taking 0.30216 seconds to reach the decision
+2025-02-26 16:03:19 Leader 3 committed a value 51 in term 3, taking 0.30182 seconds to reach the decision
+2025-02-26 16:03:20 Leader 3 committed a value 52 in term 3, taking 0.30185 seconds to reach the decision
+2025-02-26 16:03:31 Leader 0 committed a value 54 in term 4, taking 0.30217 seconds to reach the decision
+2025-02-26 16:03:27 Leader 3 committed a value 55 in term 5, taking 0.30239 seconds to reach the decision
+2025-02-26 16:03:28 Leader 3 committed a value 56 in term 5, taking 0.30170 seconds to reach the decision
+
+2025-02-26 16:03:51 Leader 0 committed a value 42 in term 0, taking 0.03197 seconds to reach the decision
+2025-02-26 16:03:52 Leader 0 committed a value 43 in term 0, taking 0.30152 seconds to reach the decision
+2025-02-26 16:03:52 Leader 0 committed a value 44 in term 0, taking 0.30192 seconds to reach the decision
+2025-02-26 16:03:52 Leader 0 committed a value 45 in term 0, taking 0.20142 seconds to reach the decision
+2025-02-26 16:03:53 Leader 0 committed a value 46 in term 0, taking 0.30159 seconds to reach the decision
+2025-02-26 16:03:53 Leader 0 committed a value 47 in term 0, taking 0.20133 seconds to reach the decision
+2025-02-26 16:03:29 Leader 2 committed a value 49 in term 1, taking 0.30211 seconds to reach the decision
+2025-02-26 16:03:29 Leader 2 committed a value 50 in term 1, taking 0.20122 seconds to reach the decision
+2025-02-26 16:04:00 Leader 0 committed a value 52 in term 2, taking 0.20176 seconds to reach the decision
+2025-02-26 16:04:00 Leader 0 committed a value 53 in term 2, taking 0.20193 seconds to reach the decision
