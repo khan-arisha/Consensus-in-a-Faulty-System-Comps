@@ -49,7 +49,7 @@ Comps group repository for Consensus in a Faulty System
     - Change the number in runs to run performace_log.c however many times you want
     - Change C_Program to the name of the .c file you want to measure performance for
        - Note: make sure you already compiled the .c file you want to measure first
-    - Change the number of process to however much you want (max 9)
+    - Change the number of process to however much you want
     - In terminal write: **chmod +x multiple_runs.sh**
        - This gives the file execution permissions
     - In terminal run: **./multiple_runs.sh**
