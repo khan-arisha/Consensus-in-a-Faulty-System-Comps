@@ -46,7 +46,13 @@ Comps group repository for Consensus in a Faulty System
     - you will get a file made called **performance.csv** that you can then open to look at your data
 
     ## To compile multiple_runs.sh:
-    - 
+    - Change the number in runs to run performace_log.c however many times you want
+    - Change C_Program to the name of the .c file you want to measure performance for
+       - Note: make sure you already compiled the .c file you want to measure first
+    - Change the number of process to however much you want (max 9)
+    - In terminal write: **chmod +x multiple_runs.sh**
+       - This gives the file execution permissions
+    - In terminal run: **./multiple_runs.sh**
 
     ## To download the csv files:
     - write in the location of your csv file: **scp [YOUR_NAME]@RasberryPi00.YOUR_EMAIL.org:~/Comps/performance.csv performance.csv**
